@@ -1,9 +1,9 @@
 # appXimdDevices
 
 authors: 
--Jacint
--Eduardo
--Ivan
--Eugenio
--Nil
--Daniel
+-Jacint-
+-Eduardo-
+-Ivan-
+-Eugenio-
+-Nil-
+-Daniel-
